@@ -1,5 +1,7 @@
-```
 # Neural Network from Scratch with NumPy
+
+```
+
 
 This repository contains a Python implementation of a basic neural network from scratch using only NumPy. The network is trained and tested on the MNIST dataset for handwritten digit classification.
 
