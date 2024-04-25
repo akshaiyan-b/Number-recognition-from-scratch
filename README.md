@@ -13,7 +13,7 @@ This project demonstrates the implementation of a neural network without relying
 
 1. **Clone the Repository**: 
    ```
-   git clone https://github.com/your-username/your-repository.git
+   git clone https://github.com/akshaiyan-b/Number-recognition-from-scratch.git
    ```
 
 2. **Install Dependencies**: 
